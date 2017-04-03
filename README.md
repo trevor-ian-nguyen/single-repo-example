@@ -1,7 +1,7 @@
 single-repo-example
 ===================
 
-Here is some new content for the README.md file
+Here is some new, updated content for the README.md file
 
 Contributors Guide
 ==================
